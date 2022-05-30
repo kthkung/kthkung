@@ -6,7 +6,7 @@
 
 # 📊GitHub Stats : <img src="https://visitcount.itsvg.in/api?id=kthkung&icon=0&color=0"/>
 
-<div style="display: flex; flex-direction: row;">
+<div align="center">
  <img class="img" src="https://github-readme-stats.vercel.app/api?username=kthkung&theme=radical&hide_border=true&include_all_commits=true&count_private=tru)" />
  <img class="img" src="https://github-readme-streak-stats.herokuapp.com/?user=kthkung&theme=radical&hide_border=true" />
 </div>
